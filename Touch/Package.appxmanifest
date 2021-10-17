@@ -10,7 +10,7 @@
   <Identity
     Name="LumiaWOA.GesturesTouch"
     Publisher="CN=Windows On Lumia Development Second Party Software 2020"
-    Version="1.0.6.0" />
+    Version="1.0.7.0" />
 
   <mp:PhoneIdentity PhoneProductId="28bb0e39-5084-48e3-96f2-a25982fb40d3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
